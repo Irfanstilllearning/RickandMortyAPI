@@ -44,4 +44,4 @@ This Flutter project is a mobile application that provides information about Ric
   - `main.dart`
 
 ## APK Link
-[Download APK]([#](https://drive.google.com/file/d/1s_yvAMFAxq4d4H1Qpw3xVrmh6dPs48OJ/view?usp=drive_link)https://drive.google.com/file/d/1s_yvAMFAxq4d4H1Qpw3xVrmh6dPs48OJ/view?usp=drive_link) - Upload your APK to a cloud storage service and provide the link here.
+[Download APK]([#]) - Upload your APK to a cloud storage service and provide the link here.
