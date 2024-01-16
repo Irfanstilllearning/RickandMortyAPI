@@ -18,21 +18,30 @@ This Flutter project is a mobile application that provides information about Ric
 - Search for characters by name
 
 ## Libraries
-- Flutter (version)
+- Flutter (3.16.7)
 - http for API communication
 - etc.
 
 ## Project Structure
-- `components`
-- `config`
-- `controllers`
-- `di`
-- `resources`
-- `routes`
-- `screen`
-- `services`
-- `styles`
-- `utils`
+- `lib`
+  - `components`
+  - `config`
+    - `api_config.dart`
+  - `controllers`
+  - `di`
+    - `dependency_injection.dart`
+  - `resources`
+    - `strings.dart`
+  - `routes`
+    - `app_routes.dart`
+  - `screens`
+    - `home_page.dart`
+    - `search_page.dart`
+  - `services`
+  - `styles`
+    - `app_theme.dart`
+  - `utils`
+  - `main.dart`
 
 ## APK Link
 [Download APK](#) - Upload your APK to a cloud storage service and provide the link here.
