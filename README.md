@@ -1,4 +1,4 @@
-# RickandMortyAPI
+
 # Rick and Morty Characters App
 
 ## Introduction
